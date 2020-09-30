@@ -57,7 +57,7 @@ It allows businesses to more effectively optimize inventory, increase inventory 
 
 ***This Blog is appreciated by Varies Communities, especially Analytics Vidhya, and also published on their medium page.***
 
-<img src="Images/multivariate blog.jpeg"/>
+[<img src="Images/multivariate blog.jpeg">](https://medium.com/analytics-vidhya/multivariate-time-series-restaurant-demand-forecasting-1f1633875bc7?source=friends_link&sk=d814295d517949b04c96261ebe6872ed)
 
 
 ---
