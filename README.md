@@ -52,19 +52,15 @@ Tobacco smoking is one of the world’s largest health problems. It has been a m
 
 [<img src="Images/viz2.gif">](https://public.tableau.com/views/WorldSmokingAnalysis/Dashboard?:language=en&:display_count=y&:toolbar=n&:origin=viz_share_link)
 
+<p>&nbsp;</p>
 
+### [The Power of Neurons](https://public.tableau.com/shared/8M2T99BFW?:toolbar=n&:display_count=y&:origin=viz_share_link)
 
+Neurons are the cells that transmit information in an animal's nervous system so that it can sense stimuli from its environment and behave accordingly and This visualization is shows how this neurons are prenet and work in diffrent animials.
 
+[<img src="Images/viz3.gif">](https://public.tableau.com/shared/8M2T99BFW?:toolbar=n&:display_count=y&:origin=viz_share_link)
 
-
-
-
-
-
-
-
-
-
+<p>&nbsp;</p>
 
 
 
