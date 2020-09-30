@@ -38,6 +38,30 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 
 ## My Tableau Viz
 
+### [India Prime Minister Narendra Modi Foreign Visits 2014-2019](https://public.tableau.com/views/PMModiForeignVisits/final?:language=en&:display_count=y&:toolbar=n&:origin=viz_share_link)
+
+
+
+
+
+[<img src="Images/viz1.gif">](https://public.tableau.com/views/PMModiForeignVisits/final?:language=en&:display_count=y&:toolbar=n&:origin=viz_share_link)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
