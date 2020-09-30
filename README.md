@@ -1,7 +1,7 @@
 
 <img src="Images/dp.jpg" width="320" height="408" style="horizontal-align:middle"/>
 
-# About Me :-
+## About_Me :-
 
 Hey, hi there
 I am an experienced data scientist passionate about Machine Learning and loves the idea of helping to make decisions with the support of data.
@@ -18,5 +18,6 @@ Tools I like to use - Python, Tableau, MySQL, and sometimes R.
 
 My Favorite Python libraries - Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Plotly, Tensorflow, NLTK, SciPy, Keras, Statemodels.
 
----
+### Contact_Me :-
 
+---
