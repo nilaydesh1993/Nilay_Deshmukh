@@ -26,16 +26,16 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 * ***Cell No.*** - [*+91 72762 62753*](#)
 
 ---
-
-# My Projects
-
----
-
-# My Tableau Viz
+***It's Time to show my Work..............***
+## My Projects
 
 ---
 
-# My Blogs 
+## My Tableau Viz
+
+---
+
+## My Blogs 
 
 ---
 
