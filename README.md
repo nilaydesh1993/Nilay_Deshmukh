@@ -1,5 +1,5 @@
 
-<img src="Images/dp.jpg" width="425" height="510" style="border:5px solid black">
+<img src="Images/dp.jpg" width="425" height="510" class="center">
 
 
 # **Nilay Deshmukh**
@@ -21,3 +21,5 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 Tools I like to use - Python, Tableau, MySQL, and sometimes R.
 
 My Favorite Python libraries - Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Plotly, Tensorflow, NLTK, SciPy, Keras, Statemodels.
+
+---
