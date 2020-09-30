@@ -20,7 +20,7 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 #### GitHub - [**nilaydeshmukh0**](https://github.com/nilaydeshmukh0)
 #### Kaggle - [**nilaydesmukh**](https://www.kaggle.com/nilaydesmukh)
 #### Tableau_Public - [**Nilay Deshmukh**](https://public.tableau.com/profile/nilay.deshmukh)
-
+#### Medium - [**nilaydeshmukh**](https://medium.com/@nilaydeshmukh)
 
 
 ---
