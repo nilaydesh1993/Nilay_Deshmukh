@@ -55,7 +55,7 @@ Checkout my Blog about Multivariate Time Series Demond Forecasting on Medium. Th
 Demand forecasting helps with business planning, budgeting, and goal setting. Once you have a good understanding of what your future sales could look like, you can begin to develop an informed procurement strategy to make sure your supply matches customer demand.
 It allows businesses to more effectively optimize inventory, increase inventory turnover rates, and reduce holding costs.
 
-**This Blog is appreciated by Varies of Community, especially Analytics Vidhya, and also published on their medium page.**
+***This Blog is appreciated by Varies Communities, especially Analytics Vidhya, and also published on their medium page.***
 
 <img src="Images/multivariate blog.jpeg"/>
 
