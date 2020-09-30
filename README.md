@@ -48,9 +48,7 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 ## My Blogs 
 
 
-
-
-
+### [Multivariate Time Series Restaurant Demand Forecasting](https://medium.com/analytics-vidhya/multivariate-time-series-restaurant-demand-forecasting-1f1633875bc7?source=friends_link&sk=d814295d517949b04c96261ebe6872ed)
 
 
 
