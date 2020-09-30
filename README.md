@@ -1,16 +1,6 @@
 
 <img src="Images/dp.jpg" width="320" height="408" class="center">
 
-
-# **Nilay Deshmukh**
-
-
-
-
-
-
-
-
 ## About Me :-
 
 Hey, hi there
