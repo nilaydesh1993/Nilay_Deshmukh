@@ -1,5 +1,5 @@
 
-<img src="Images/dp.jpg" width="320" height="408" class="center">
+<img src="Images/dp.jpg" width="320" height="408" class="center" style="vertical-align:middle">
 
 ## About Me :-
 
