@@ -16,10 +16,10 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 
 ## Contact_Me :-
 
-* ***Linkedin*** - [**in/nilaydeshmukh**](https://www.linkedin.com/in/nilaydeshmukh/)
+* ***Linkedin*** - [*in/nilaydeshmukh*](https://www.linkedin.com/in/nilaydeshmukh/)
 * ***GitHub*** - [**nilaydeshmukh0**](https://github.com/nilaydeshmukh0)
-* ***Kaggle*** - [**nilaydesmukh**](https://www.kaggle.com/nilaydesmukh)
-* **Tableau_Public** - [**Nilay Deshmukh**](https://public.tableau.com/profile/nilay.deshmukh)
+* ***Kaggle*** - [*nilaydesmukh*](https://www.kaggle.com/nilaydesmukh)
+* **Tableau_Public** - [Nilay Deshmukh](https://public.tableau.com/profile/nilay.deshmukh)
 * **Medium** - [**nilaydeshmukh**](https://medium.com/@nilaydeshmukh)
 
 
