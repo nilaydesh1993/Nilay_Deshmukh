@@ -14,10 +14,6 @@ Experienced working with big data and relational database management system such
 Including all of this, I always love to use my 3-year mechanical domain expertise to look at problems from outside of the box.
 
 
-Tools I like to use - Python, Tableau, MySQL, and sometimes R.
-
-My Favorite Python libraries - Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Plotly, Tensorflow, NLTK, SciPy, Keras, Statemodels.
-
 ### Contact_Me :-
 
 ---
