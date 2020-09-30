@@ -1,7 +1,7 @@
 
 <img src="Images/dp.jpg" width="320" height="408" style="horizontal-align:middle"/>
 
- ***Data Scientis - ML - Deep Learning -  Python - MySQL - Tableau Vizer - Medium Blogger***
+ ***Data Scientist - ML - Deep Learning -  Python - MySQL - Tableau Vizer - Medium Blogger***
 
 ## About_Me :-
 
@@ -23,6 +23,6 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 * ***Kaggle*** - [*nilaydesmukh*](https://www.kaggle.com/nilaydesmukh)
 * ***Tableau_Public*** - [*Nilay Deshmukh*](https://public.tableau.com/profile/nilay.deshmukh)
 * ***Medium*** - [*nilaydeshmukh*](https://medium.com/@nilaydeshmukh)
-
+* ***Cell No.*** - +91 72762 62753
 
 ---
