@@ -1,5 +1,5 @@
 
-<img src="Images/dp.jpg" width="425" height="510" class="center">
+<img src="Images/dp.jpg" width="320" height="408" class="center">
 
 
 # **Nilay Deshmukh**
