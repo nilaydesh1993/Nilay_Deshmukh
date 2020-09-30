@@ -29,13 +29,30 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 ***It's Time to show my Work..............***
 ## My Projects
 
+
+
+
+
+
 ---
 
 ## My Tableau Viz
 
+
+
+
+
+
 ---
 
 ## My Blogs 
+
+
+
+
+
+
+
 
 ---
 
