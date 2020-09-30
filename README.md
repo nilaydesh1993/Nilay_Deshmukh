@@ -1,6 +1,8 @@
 
 <img src="Images/dp.jpg" width="320" height="408" style="horizontal-align:middle"/>
 
+## Data Scientist || ML || Deep Learning || Python || MySQL || Tableau Vizer || Medium Blogger ||
+
 ## About_Me :-
 
 Hey, hi there
@@ -17,10 +19,10 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 ## Contact_Me :-
 
 * ***Linkedin*** - [*in/nilaydeshmukh*](https://www.linkedin.com/in/nilaydeshmukh/)
-* ***GitHub*** - [**nilaydeshmukh0**](https://github.com/nilaydeshmukh0)
+* ***GitHub*** - [*nilaydeshmukh0*](https://github.com/nilaydeshmukh0)
 * ***Kaggle*** - [*nilaydesmukh*](https://www.kaggle.com/nilaydesmukh)
-* **Tableau_Public** - [Nilay Deshmukh](https://public.tableau.com/profile/nilay.deshmukh)
-* **Medium** - [**nilaydeshmukh**](https://medium.com/@nilaydeshmukh)
+* ***Tableau_Public*** - [*Nilay Deshmukh*](https://public.tableau.com/profile/nilay.deshmukh)
+* ***Medium*** - [*nilaydeshmukh*](https://medium.com/@nilaydeshmukh)
 
 
 ---
