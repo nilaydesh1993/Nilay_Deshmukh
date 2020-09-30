@@ -38,12 +38,21 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 
 ## My Tableau Viz.
 
-### [ India Prime Minister Narendra Modi Foreign Visits 2014-2019](https://public.tableau.com/views/PMModiForeignVisits/final?:language=en&:display_count=y&:toolbar=n&:origin=viz_share_link)
+### [India Prime Minister Narendra Modi Foreign Visits 2014-2019](https://public.tableau.com/views/PMModiForeignVisits/final?:language=en&:display_count=y&:toolbar=n&:origin=viz_share_link)
 
 This my dynamic tableau viz about Foreign Visits of Indian Prime Minister Narendra Modi with 92 trips to 58 countries since coming to power in May 2014, Modi has flown abroad nearly twice as much as his predecessor Manmohan Singh in five years.
 
 [<img src="Images/viz1.gif">](https://public.tableau.com/views/PMModiForeignVisits/final?:language=en&:display_count=y&:toolbar=n&:origin=viz_share_link)
 
+
+
+
+
+### [World Smoking Analysis](https://public.tableau.com/views/WorldSmokingAnalysis/Dashboard?:language=en&:display_count=y&:toolbar=n&:origin=viz_share_link)
+
+Tobacco smoking is one of the world’s largest health problems. It has been a major health problem for many decades. For the entire 20th century it is estimated that around 100 million people died prematurely because of smoking.
+
+[<img src="Images/viz2.gif">](https://public.tableau.com/views/WorldSmokingAnalysis/Dashboard?:language=en&:display_count=y&:toolbar=n&:origin=viz_share_link)
 
 
 
