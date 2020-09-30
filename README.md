@@ -44,9 +44,7 @@ This my dynamic tableau viz about Foreign Visits of Indian Prime Minister Narend
 
 [<img src="Images/viz1.gif">](https://public.tableau.com/views/PMModiForeignVisits/final?:language=en&:display_count=y&:toolbar=n&:origin=viz_share_link)
 
-
-
-
+<p>&nbsp;</p>
 
 ### [World Smoking Analysis](https://public.tableau.com/views/WorldSmokingAnalysis/Dashboard?:language=en&:display_count=y&:toolbar=n&:origin=viz_share_link)
 
