@@ -23,6 +23,6 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 * ***Kaggle*** - [*nilaydesmukh*](https://www.kaggle.com/nilaydesmukh)
 * ***Tableau_Public*** - [*Nilay Deshmukh*](https://public.tableau.com/profile/nilay.deshmukh)
 * ***Medium*** - [*nilaydeshmukh*](https://medium.com/@nilaydeshmukh)
-* ***Cell No.*** - [**+91 72762 62753**](#)
+* ***Cell No.*** - [*+91 72762 62753*](#)
 
 ---
