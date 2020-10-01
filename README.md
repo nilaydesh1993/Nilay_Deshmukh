@@ -105,6 +105,12 @@ This is the deployment app on the shiny dashboard. It is much easier as compared
 
 [<img src="Images/Dash 2.gif">](https://thisisnilay.shinyapps.io/salary_hike/?_ga=2.41870944.314471345.1601546933-1798735927.1601546933)
 
+<p>&nbsp;</p>
+
+For more deployed app on R shiny [click here](https://github.com/nilaydeshmukh0/R-Shiny-Deployment). It redirects you to my Github page, which contains more shiny deployed apps, But it is deployed locally.   
+
+<p>&nbsp;</p>
+
 ---
 
 <p>&nbsp;</p>
