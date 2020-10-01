@@ -3,7 +3,7 @@
 
  ***Data Scientist - ML - Deep Learning -  Python - MySQL - Tableau Vizer - Medium Blogger***
 
-# About_Me :-
+# **About_Me**
 
 Hey, hi there
 I am an experienced data scientist passionate about Machine Learning and loves the idea of helping to make decisions with the support of data.
@@ -27,7 +27,15 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 * ***Email.*** - [*nilaydeshmukh0@gmail.com*](#)
 ---
 ***It's Time to show my Work..............***
-# My Projects
+
+
+
+
+# **My_Projects**
+
+
+
+
 
 
 
@@ -36,7 +44,7 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 
 ---
 
-# My Tableau Viz.
+# **My_Tableau_Viz.**
 
 ## [India Prime Minister Narendra Modi Foreign Visits 2014-2019](https://public.tableau.com/views/PMModiForeignVisits/final?:language=en&:display_count=y&:toolbar=n&:origin=viz_share_link)
 
@@ -70,7 +78,7 @@ Neurons are the cells that transmit information in an animal's nervous system so
 
 ---
 
-# My Blogs 
+# **My_Blogs** 
 
 
 ## [Multivariate Time Series Restaurant Demand Forecasting](https://medium.com/analytics-vidhya/multivariate-time-series-restaurant-demand-forecasting-1f1633875bc7?source=friends_link&sk=d814295d517949b04c96261ebe6872ed)
