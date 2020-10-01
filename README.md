@@ -166,7 +166,7 @@ It allows businesses to more effectively optimize inventory, increase inventory 
 ---
 
 
-
+<center>Centered text</center>
 
 
 
