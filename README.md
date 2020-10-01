@@ -29,13 +29,24 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 
 ***It's Time to show my Work..............***
 
+<p>&nbsp;</p>
+
 # **My_Projects**
+
+
+
+
+
+
 
 
 ## Web_Scraping_&_Sentiment_Analysis
 
+### [Amazon Product Review Scraping and Sentiment Analysis](https://github.com/nilaydeshmukh0/Text-Mining-and-Sentiment-Analysis/tree/master/Amazon%20Product%20Analysis)
 
 
+
+[<img src="Images/sentimental 1.gif">](https://www.amazon.in/Portronics-POR-871-SoundDrum-Bluetooth-Speaker/dp/B07B2XRFRV/ref=cm_cr_arp_d_product_top?ie=UTF8)
 
 
 
@@ -43,6 +54,8 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 
 
 ---
+
+<p>&nbsp;</p>
 
 # **My_Tableau_Viz.**
 
@@ -68,17 +81,12 @@ Neurons are the cells that transmit information in an animal's nervous system so
 
 [<img src="Images/viz3.gif">](https://public.tableau.com/shared/8M2T99BFW?:toolbar=n&:display_count=y&:origin=viz_share_link)
 
-<p>&nbsp;</p>
-
-
-
-
-
-
-
 
 
 ---
+
+<p>&nbsp;</p>
+
 
 # **My_Blogs** 
 
