@@ -62,13 +62,20 @@ As I did scrapping of **Amazon.in**, I thought can I scrap other eCommerce websi
 
 Hey did you watched Netflix Dark? 
 
-According to me, it is a masterpiece, one of the best and awesome series I ever see. But it is my opinion. I want to know what other people think about it and luckily I am a data scientist it time to use my secret powers 🤣🤣🤣🤣. So this time I scraped IMDb to extract Netflix Dark review it is a very difficult task as IMDb is a dynamic website but I did my best.
+According to me, it is a masterpiece, one of the best and awesome series I ever saw. But it is my opinion. I want to know what other people think about it and luckily I am a data scientist it time to use my secret powers 🤣🤣🤣🤣. So this time I scraped IMDb to extract Netflix Dark review it is a very difficult task as IMDb is a dynamic website but I did my best.
 After performing Sentiment analysis I notice that it is indeed the best series. If you do not watch it yet I suggest you watch, But one caution watches minutely and be patient you will understand it  🤣🤣🤣.
 
 [<img src="Images/sentimental 3.gif">](https://www.imdb.com/title/tt5753856/)
 
 
+<p>&nbsp;</p>
 
+
+## [Heroku Dashboard](https://nilaydash.herokuapp.com/login)
+
+As deployment is one of the most essential aspects of machine learning project architecture, I always try to deploy on a variety of platforms. Have a look at my simple web app deployed on Heroku. 
+
+[<img src="Images/Dash 1.gif">](https://nilaydash.herokuapp.com/login)
 
 
 ---
