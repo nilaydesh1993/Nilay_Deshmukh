@@ -91,13 +91,19 @@ In my view, it is a masterpiece, one of the best and excellent series I ever saw
 
 <p>&nbsp;</p>
 
-
 ## [Heroku Dashboard](https://nilaydash.herokuapp.com/login)
 
 As deployment is one of the most essential aspects of machine learning project architecture, I always try to deploy on various platforms. Please have a look at my simple web app deployed on Heroku. 
 
 [<img src="Images/Dash 1.gif">](https://nilaydash.herokuapp.com/login)
 
+<p>&nbsp;</p>
+
+## [R Shiny Dashboard](https://thisisnilay.shinyapps.io/salary_hike/?_ga=2.41870944.314471345.1601546933-1798735927.1601546933)
+
+This is the deployment app on the shiny dashboard. It is much easier as compared to Heroku. Still, it has its limitation, so I always prefer python and Heroku over the R and shiny because it is more user friendly and customizable.
+
+[<img src="Images/Dash 2.gif">](https://thisisnilay.shinyapps.io/salary_hike/?_ga=2.41870944.314471345.1601546933-1798735927.1601546933)
 
 ---
 
