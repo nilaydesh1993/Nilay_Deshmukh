@@ -44,7 +44,7 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 
 ### [Amazon Product Review Scraping and Sentiment Analysis](https://github.com/nilaydeshmukh0/Text-Mining-and-Sentiment-Analysis/tree/master/Amazon%20Product%20Analysis)
 
-In this, I scraped reviews of **Portronics POR-871 SoundDrum 4.2 Stereo Speaker (Black)** from **Amazon.in** by using scrapping python libraries such as **Beautifulsoup** and **request**. After successfully extracting reviews  I performed a sentimental analysis on it to find Positive and Negative sentiments of customers for this product. 
+In this, I scraped reviews of **Portronics POR-871 SoundDrum 4.2 Stereo Speaker (Black)** from **Amazon.in** by using scrapping python libraries such as **Beautifulsoup** and **request**. After successfully extracting reviews, I performed a sentimental analysis to find Positive and Negative sentiments of customers for this product. 
 
 [<img src="Images/sentimental 1.gif">](https://www.amazon.in/Portronics-POR-871-SoundDrum-Bluetooth-Speaker/dp/B07B2XRFRV/ref=cm_cr_arp_d_product_top?ie=UTF8)
 
@@ -52,7 +52,7 @@ In this, I scraped reviews of **Portronics POR-871 SoundDrum 4.2 Stereo Speaker 
 
 ### [Snapdeal Product Review Scraping and Sentiment Analysis](https://github.com/nilaydeshmukh0/Text-Mining-and-Sentiment-Analysis/tree/master/Snapdeal%20Product%20Analysis)
 
-As I did scrapping of **Amazon.in**, I thought can I scrap other eCommerce websites such as Snapdeal, Flipkart. So finally I tried to scrape reviews of **Xolo Era 2 ( 8GB , 1 GB ) Black** From **Snapdeal.com**, and guess what I succeeded. After that, I performed sentiment analysis to look at what other people saying and thinking about this mobile. But, after successfully identified sentiments of other people about this mobile, it was stock out 😢😢😢😢😢.
+As I did, scrapping of **Amazon.in**, I thought can I scrap other eCommerce websites such as Snapdeal, Flipkart. Finally, I tried to scrape reviews of **Xolo Era 2 ( 8GB , 1 GB ) Black** From **Snapdeal.com**, and guess what I succeeded. After that, I performed sentiment analysis to look at what other people saying and thinking about this mobile. But, after successfully identified sentiments of other people about this mobile, it was stock out 😢😢😢😢😢.
 
 [<img src="Images/sentimental 2.gif">](https://www.snapdeal.com/product/xolo-era-2-8gb-black/639365186960)
 
@@ -62,8 +62,7 @@ As I did scrapping of **Amazon.in**, I thought can I scrap other eCommerce websi
 
 Hey did you watched Netflix Dark? 
 
-According to me, it is a masterpiece, one of the best and awesome series I ever saw. But it is my opinion. I want to know what other people think about it and luckily I am a data scientist it time to use my secret powers 🤣🤣🤣🤣. So this time I scraped IMDb to extract Netflix Dark review it is a very difficult task as IMDb is a dynamic website but I did my best.
-After performing Sentiment analysis I notice that it is indeed the best series. If you do not watch it yet I suggest you watch, But one caution watches minutely and be patient you will understand it  🤣🤣🤣.
+In my view, it is a masterpiece, one of the best and excellent series I ever saw. But it is my opinion. I want to know what other people think about it, and luckily I am a data scientist, it time to use my secret powers 🤣🤣🤣🤣. So this time, I scraped IMDb to extract the Netflix Dark review. It is a challenging task as IMDb is a dynamic website, but I did my best. After performing Sentiment analysis, I notice that it is indeed the best series. If you do not see it yet, I suggest you watch, But one caution observes minutely and be patient, you will understand it 🤣🤣🤣.
 
 [<img src="Images/sentimental 3.gif">](https://www.imdb.com/title/tt5753856/)
 
@@ -73,7 +72,7 @@ After performing Sentiment analysis I notice that it is indeed the best series. 
 
 ## [Heroku Dashboard](https://nilaydash.herokuapp.com/login)
 
-As deployment is one of the most essential aspects of machine learning project architecture, I always try to deploy on a variety of platforms. Have a look at my simple web app deployed on Heroku. 
+As deployment is one of the most essential aspects of machine learning project architecture, I always try to deploy on various platforms. Please have a look at my simple web app deployed on Heroku. 
 
 [<img src="Images/Dash 1.gif">](https://nilaydash.herokuapp.com/login)
 
