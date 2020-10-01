@@ -33,8 +33,30 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 
 # **My_Projects**
 
+## [Multivariate-Time-Series-Forcasting](https://www.kaggle.com/nilaydesmukh/restaurant-demand-forecasting)
 
+**Business Problem and Limitations -**
+Our dataset is for restaurant sales for Tuesday and Wednesday, both lunch and dinner time.
 
+There are few instances of 'To-Go' orders like Uber Eats in this dataset.
+
+Typical lunch hour is 11:30 AM-2:00 PM, and dinner hour is 6:30 PM-10:00 PM
+
+The data set is just for Tuesday and Wednesday. We needs to expand and randomize the data for min. of 6 months (Jan. 2019 to June 2019) for all days of the week.
+
+A typical restaurant has high covers (number of customers) on Wednesday, Weekend Dinner, followed by Weekend Lunch, and then relatively low covers for Monday to Friday Lunch.
+
+The data expansion/randomization should follow the above pattern for the number of customers.
+
+**Our Gole -**
+Predict the top 'Menu Item' and 'Item Qty' for Lunch and Dinner.  These predictions need to be for future dates (Monday to Sunday, July 1st to July 7th) 
+
+**Conclusion -**
+We successfully forecast the demand for restaurant food items on the menu for Lunch and dinner for a given time period and also identify top items on the menu. This article shows one of many ways of demand forecasting implementation, according to me it is one of the best ways of handling multivariate forecasting business problems.
+
+[<img src="Images/time series1.jpg">](https://github.com/nilaydeshmukh0/Multivariate-Time-Series/tree/master/Restaurant%20Items%20Multivariate%20Time%20Series)
+
+<p>&nbsp;</p>
 
 
 
