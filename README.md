@@ -29,7 +29,7 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 
 ***It's Time to show my Work..............***
 
-<p>&nbsp;</p>
+---
 
 # **My_Projects**
 
@@ -115,7 +115,7 @@ For more deployed app on R shiny [click here](https://github.com/nilaydeshmukh0/
 
 ---
 
-<p>&nbsp;</p>
+
 
 # **My_Tableau_Viz.**
 
@@ -147,7 +147,6 @@ Neurons are the cells that transmit information in an animal's nervous system so
 
 ---
 
-<p>&nbsp;</p>
 
 
 # **My_Blogs** 
