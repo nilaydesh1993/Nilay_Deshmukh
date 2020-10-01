@@ -15,7 +15,6 @@ Solid understanding of machine learning fundamentals and familiar with a variety
 Experienced working with big data and relational database management system such as MySQL.
 Including all of this, I always love to use my 3-year mechanical domain expertise to look at problems from outside of the box.
 
-
 ## Contact_Me 
 
 * ***Linkedin*** - [*in/nilaydeshmukh*](https://www.linkedin.com/in/nilaydeshmukh/)
@@ -24,17 +23,15 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 * ***Tableau_Public*** - [*Nilay Deshmukh*](https://public.tableau.com/profile/nilay.deshmukh)
 * ***Medium*** - [*nilaydeshmukh*](https://medium.com/@nilaydeshmukh)
 * ***Cell No.*** - [*+91 72762 62753*](#)
-* ***Email.*** - [*nilaydeshmukh0@gmail.com*](#)
+* ***Email*** - [*nilaydeshmukh0@gmail.com*](#)
 
 ---
 
-
 ***It's Time to show my Work..............***
 
-
-
-
 # **My_Projects**
+
+
 
 
 
@@ -79,6 +76,8 @@ Neurons are the cells that transmit information in an animal's nervous system so
 
 
 
+
+
 ---
 
 # **My_Blogs** 
@@ -94,6 +93,8 @@ It allows businesses to more effectively optimize inventory, increase inventory 
 ***This Blog is appreciated by Varies Communities, especially Analytics Vidhya, and also published on their medium page.***
 
 [<img src="Images/multivariate blog.jpeg">](https://medium.com/analytics-vidhya/multivariate-time-series-restaurant-demand-forecasting-1f1633875bc7?source=friends_link&sk=d814295d517949b04c96261ebe6872ed)
+
+
 
 
 ---
