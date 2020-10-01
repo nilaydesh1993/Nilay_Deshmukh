@@ -32,7 +32,7 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 # **My_Projects**
 
 
-
+## Web_Scraping_&_Sentiment_Analysis
 
 
 
@@ -44,7 +44,7 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 
 ---
 
-# **My_Tableau_Viz.**
+# My_Tableau_Viz.
 
 ## [India Prime Minister Narendra Modi Foreign Visits 2014-2019](https://public.tableau.com/views/PMModiForeignVisits/final?:language=en&:display_count=y&:toolbar=n&:origin=viz_share_link)
 
