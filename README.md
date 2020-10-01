@@ -44,9 +44,9 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 
 ---
 
-# My_Tableau_Viz.
+# **My_Tableau_Viz.**
 
-## [India Prime Minister Narendra Modi Foreign Visits 2014-2019](https://public.tableau.com/views/PMModiForeignVisits/final?:language=en&:display_count=y&:toolbar=n&:origin=viz_share_link)
+## [**India Prime Minister Narendra Modi Foreign Visits 2014-2019**](https://public.tableau.com/views/PMModiForeignVisits/final?:language=en&:display_count=y&:toolbar=n&:origin=viz_share_link)
 
 This my dynamic tableau viz about Foreign Visits of Indian Prime Minister Narendra Modi with 92 trips to 58 countries since coming to power in May 2014, Modi has flown abroad nearly twice as much as his predecessor Manmohan Singh in five years.
 
