@@ -107,7 +107,7 @@ This is the deployment app on the shiny dashboard. It is much easier as compared
 
 <p>&nbsp;</p>
 
-For more deployed app on R shiny [click here](https://github.com/nilaydeshmukh0/R-Shiny-Deployment). It redirects you to my Github page, which contains more shiny deployed apps, But it is deployed locally.   
+For more deployed app on R shiny [click here](https://github.com/nilaydeshmukh0/R-Shiny-Deployment). It redirects you to my Github page, which contains more shiny deployed apps, But it is locally deployed.   
 
 <p>&nbsp;</p>
 
