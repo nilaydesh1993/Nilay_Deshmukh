@@ -24,7 +24,7 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 * ***Tableau_Public*** - [*Nilay Deshmukh*](https://public.tableau.com/profile/nilay.deshmukh)
 * ***Medium*** - [*nilaydeshmukh*](https://medium.com/@nilaydeshmukh)
 * ***Cell No.*** - [*+91 72762 62753*](#)
-
+* ***Email.*** - [*nilaydeshmukh0@gmail.com*](#)
 ---
 ***It's Time to show my Work..............***
 # My Projects
