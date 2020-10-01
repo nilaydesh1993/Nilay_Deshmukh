@@ -33,6 +33,8 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 
 # **My_Projects**
 
+<p>&nbsp;</p>
+
 ## [Multivariate-Time-Series-Forcasting](https://www.kaggle.com/nilaydesmukh/restaurant-demand-forecasting)
 
 **Business Problem and Limitations -**
@@ -49,7 +51,7 @@ A typical restaurant has high covers (number of customers) on Wednesday, Weekend
 The data expansion/randomization should follow the above pattern for the number of customers.
 
 **Our Gole -**
-Predict the top 'Menu Item' and 'Item Qty' for Lunch and Dinner.  These predictions need to be for future dates (Monday to Sunday, July 1st to July 7th) 
+Predict the top 'Menu Item' and 'Item Qty' for Lunch and Dinner. These predictions need to be for future dates (Monday to Sunday, July 1st to July 7th) 
 
 **Conclusion -**
 We successfully forecast the demand for restaurant food items on the menu for Lunch and dinner for a given time period and also identify top items on the menu. This article shows one of many ways of demand forecasting implementation, according to me it is one of the best ways of handling multivariate forecasting business problems.
@@ -117,6 +119,8 @@ For more deployed app on R shiny [click here](https://github.com/nilaydeshmukh0/
 
 # **My_Tableau_Viz.**
 
+<p>&nbsp;</p>
+
 ## [India Prime Minister Narendra Modi Foreign Visits 2014-2019](https://public.tableau.com/views/PMModiForeignVisits/final?:language=en&:display_count=y&:toolbar=n&:origin=viz_share_link)
 
 This my dynamic tableau viz about Foreign Visits of Indian Prime Minister Narendra Modi with 92 trips to 58 countries since coming to power in May 2014, Modi has flown abroad nearly twice as much as his predecessor Manmohan Singh in five years.
@@ -148,6 +152,7 @@ Neurons are the cells that transmit information in an animal's nervous system so
 
 # **My_Blogs** 
 
+<p>&nbsp;</p>
 
 ## [Multivariate Time Series Restaurant Demand Forecasting](https://medium.com/analytics-vidhya/multivariate-time-series-restaurant-demand-forecasting-1f1633875bc7?source=friends_link&sk=d814295d517949b04c96261ebe6872ed)
 
