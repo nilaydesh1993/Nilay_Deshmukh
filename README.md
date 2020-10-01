@@ -169,7 +169,4 @@ It allows businesses to more effectively optimize inventory, increase inventory 
 <center>Thank you for your Support</center>
 
 
----
-
-
 
