@@ -44,6 +44,8 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 
 ### [Amazon Product Review Scraping and Sentiment Analysis](https://github.com/nilaydeshmukh0/Text-Mining-and-Sentiment-Analysis/tree/master/Amazon%20Product%20Analysis)
 
+In this, I scraped reviews of **Portronics POR-871 SoundDrum 4.2 Stereo Speaker (Black)** from **Amazon.in** by using scrapping python libraries such as **Beautifulsoup** and **request**. After successfully extracting reviews  I performed a sentimental analysis on it to find Positive and Negative sentiments of customers for this product. 
+
 
 
 [<img src="Images/sentimental 1.gif">](https://www.amazon.in/Portronics-POR-871-SoundDrum-Bluetooth-Speaker/dp/B07B2XRFRV/ref=cm_cr_arp_d_product_top?ie=UTF8)
