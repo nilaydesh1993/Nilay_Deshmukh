@@ -52,7 +52,7 @@ In this, I scraped reviews of **Portronics POR-871 SoundDrum 4.2 Stereo Speaker 
 
 ### [Snapdeal Product Review Scraping and Sentiment Analysis](https://github.com/nilaydeshmukh0/Text-Mining-and-Sentiment-Analysis/tree/master/Snapdeal%20Product%20Analysis)
 
-As I did scrapping of **Amazon.in**, I thought can I scrap other eCommerce websites such as Snapdeal, Flipkart. So finally I tried to scrape reviews of **Xolo Era 2 ( 8GB , 1 GB ) Black** From **Snapdeal**, and guess what I succeeded. After that, I performed sentiment analysis to look at what other people saying and thinking about this mobile. But, after successfully identified sentiments of other people about this mobile, it was stock out 😢😢😢😢😢.
+As I did scrapping of **Amazon.in**, I thought can I scrap other eCommerce websites such as Snapdeal, Flipkart. So finally I tried to scrape reviews of **Xolo Era 2 ( 8GB , 1 GB ) Black** From **Snapdeal.com**, and guess what I succeeded. After that, I performed sentiment analysis to look at what other people saying and thinking about this mobile. But, after successfully identified sentiments of other people about this mobile, it was stock out 😢😢😢😢😢.
 
 [<img src="Images/sentimental 2.gif">](https://www.snapdeal.com/product/xolo-era-2-8gb-black/639365186960)
 
