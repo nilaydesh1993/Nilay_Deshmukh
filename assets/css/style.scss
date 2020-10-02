@@ -3,10 +3,16 @@
 
 @import "{{ site.theme }}";
 
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  position: relative;
+  }
 
 
-  
 
+ 
 
 h1 {
     font-size: 40px !important;
