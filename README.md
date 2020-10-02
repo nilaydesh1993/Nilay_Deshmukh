@@ -164,9 +164,9 @@ It allows businesses to more effectively optimize inventory, increase inventory 
 
 [<img src="Images/multivariate blog.jpeg">](https://medium.com/analytics-vidhya/multivariate-time-series-restaurant-demand-forecasting-1f1633875bc7?source=friends_link&sk=d814295d517949b04c96261ebe6872ed)
 
+<p>&nbsp;</p>
 
-
-
+[<center><b>More</b></center>](https://github.com/nilaydeshmukh0?tab=repositories)
 ---
 
 
