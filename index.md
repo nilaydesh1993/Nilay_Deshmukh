@@ -64,7 +64,7 @@ We successfully forecast the demand for restaurant food items on the menu for Lu
 
 
 
-<td><h2><b>Web_Scraping_&_Sentiment_Analysis</b></h2></td>
+<td class="tdbreak"><h2><b>Web_Scraping_&_Sentiment_Analysis</b></h2></td>
 
 ### [Amazon Product Review Scraping and Sentiment Analysis](https://github.com/nilaydeshmukh0/Text-Mining-and-Sentiment-Analysis/tree/master/Amazon%20Product%20Analysis)
 
