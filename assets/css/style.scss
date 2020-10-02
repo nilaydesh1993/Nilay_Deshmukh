@@ -3,6 +3,18 @@
 
 @import "{{ site.theme }}";
 
+
+#header {
+    z-index: 100;
+    top: 0px;
+    width: 100%;
+    position: absolute;
+    background: url(../images/nav-bg.gif) #151515;
+    background-image: url(../images/nav-bg.gif)!important;
+    background-position-x: initial;
+  
+
+
 h1 {
     font-size: 40px !important;
 }
@@ -45,12 +57,4 @@ body {
 
 
 
-#header {
-    z-index: 100;
-    top: 0px;
-    width: 100%;
-    position: absolute;
-    background: url(../images/nav-bg.gif) #151515;
-    background-image: url(../images/nav-bg.gif)!important;
-    background-position-x: initial;
-  
+
