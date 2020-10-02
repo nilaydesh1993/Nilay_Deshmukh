@@ -166,7 +166,8 @@ It allows businesses to more effectively optimize inventory, increase inventory 
 
 <p>&nbsp;</p>
 
-[<center><b>More</b></center>](https://github.com/nilaydeshmukh0?tab=repositories)
+[<center><b>...More...</b></center>](https://github.com/nilaydeshmukh0?tab=repositories)
+
 ---
 
 
