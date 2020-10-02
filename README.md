@@ -1,5 +1,5 @@
 
-<img src="Images/dp3.jpg" />
+<img src="Images/dp2.jpg" />
 
  ***Data Scientist - ML - Deep Learning -  Python - MySQL - Tableau Vizer - Medium Blogger***
 
