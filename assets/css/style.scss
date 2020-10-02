@@ -59,6 +59,13 @@ body {
    
    }
 
+@media print, screen and (max-width: 480px)
+#header {
+    margin-top: -20px;
+    padding-top: 5% !important;
+    padding-bottom: 20% !important;
+}
+
 
 
 
