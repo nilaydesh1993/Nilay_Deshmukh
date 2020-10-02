@@ -1,5 +1,5 @@
 
-<img src="Images/dp.jpg" width="320" height="408" style="horizontal-align:middle"/>
+<img src="Images/dp2.jpg" width="320" height="408" style="horizontal-align:middle"/>
 
  ***Data Scientist - ML - Deep Learning -  Python - MySQL - Tableau Vizer - Medium Blogger***
 
