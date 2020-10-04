@@ -147,7 +147,7 @@ Neurons are the cells that transmit information in an animal's nervous system so
 
 ## [Company Sentiment Analysis](https://public.tableau.com/views/Class_16017874737070/Dashboard?:language=en&:display_count=y&:toolbar=n&:origin=viz_share_link)
 
-We can use the sentiment of people about company products and services to improve company profit. The analysis of people's sentiment is one of the most important aspects of any business, requiring special attention. The following visualization shows how people think and react to a company with different products and services. We can use this kind of dashboard for future business planning.
+We can use the sentiment of people about company products and services to improve company profit. The analysis of people's sentiment is one of the most important aspects of any business, It requiring special attention. The following visualization shows how people think and react for different products and services of company. We can use this kind of dashboard for future business planning.
 
 [<img src="Images/viz4.gif">](https://public.tableau.com/views/Class_16017874737070/Dashboard?:language=en&:display_count=y&:toolbar=n&:origin=viz_share_link)
 
