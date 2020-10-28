@@ -14,7 +14,7 @@ Solid understanding of machine learning fundamentals and familiar with a variety
 
 Experienced working with big data and relational database management system such as MySQL.
 Including all of this, I always love to use my 3-year mechanical domain expertise to look at problems from outside of the box.
-
+<!---
 ## Contact_Me 
 
 * ***Linkedin*** - [*in/nilaydeshmukh*](https://www.linkedin.com/in/nilaydeshmukh/)
@@ -24,7 +24,7 @@ Including all of this, I always love to use my 3-year mechanical domain expertis
 * ***Medium*** - [*nilaydeshmukh*](https://medium.com/@nilaydeshmukh)
 * ***Cell No.*** - [*+91 72762 62753*](#)
 * ***Email*** - [*nilaydeshmukh0@gmail.com*](#)
-
+-->
 ---
 
 ***It's Time to show my Work..............***
