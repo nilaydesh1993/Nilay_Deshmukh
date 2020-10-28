@@ -12,7 +12,7 @@ I can leverage my strong Statistical, Mathematical and Problem Solving skills an
 
 Solid understanding of machine learning fundamentals and familiar with a variety of supervised and unsupervised machine learning techniques along with deep learning techniques and their real-world advantages/drawbacks.
 
-Experienced working with big data and relational database management system such as MySQL.
+Experienced working with big data and relational database management system such as MongoDB, Hadoop, MySQL.
 Including all of this, I always love to use my mechanical domain expertise to look at problems from outside of the box.
 <!---
 ## Contact_Me 
