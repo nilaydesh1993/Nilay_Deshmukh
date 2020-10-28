@@ -32,7 +32,7 @@ Including all of this, I always love to use my mechanical domain expertise to lo
 
 ---
 
-*** It's Time to show my Work.............. ***
+***It's Time to show my Work..............***
 
 ---
 
