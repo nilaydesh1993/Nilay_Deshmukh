@@ -29,7 +29,6 @@ Including all of this, I always love to use my mechanical domain expertise to lo
 -->
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ---
 
