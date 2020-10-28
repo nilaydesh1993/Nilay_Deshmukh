@@ -14,6 +14,8 @@ Solid understanding of machine learning fundamentals and familiar with a variety
 
 Experienced working with big data and relational database management system such as MongoDB, Hadoop, MySQL.
 Including all of this, I always love to use my mechanical domain expertise to look at problems from outside of the box.
+
+
 <!---
 ## Contact_Me 
 
@@ -25,6 +27,9 @@ Including all of this, I always love to use my mechanical domain expertise to lo
 * ***Cell No.*** - [*+91 72762 62753*](#)
 * ***Email*** - [*nilaydeshmukh0@gmail.com*](#)
 -->
+
+
+
 ---
 
 ***It's Time to show my Work..............***
