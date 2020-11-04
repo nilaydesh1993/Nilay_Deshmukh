@@ -40,7 +40,7 @@ Including all of this, I always love to use my mechanical domain expertise to lo
 
 <p>&nbsp;</p>
 
-## [Multivariate-Time-Series-Forcasting](https://www.kaggle.com/nilaydesmukh/restaurant-demand-forecasting)
+## [Multivariate-Time-Series-Forecasting](https://www.kaggle.com/nilaydesmukh/restaurant-demand-forecasting)
 
 **Business Problem and Limitations -**
 Our dataset is for restaurant sales for Tuesday and Wednesday, both lunch and dinner time.
