@@ -26,7 +26,7 @@ Including all of this, I always love to use my mechanical domain expertise to lo
 * ***Cell No.*** - [*+91 72762 62753*](#)
 * ***Email*** - [*nilaydeshmukh0@gmail.com*](#)
 
-<p>&nbsp;</p>
+
 
 ---
 
