@@ -16,7 +16,6 @@ Experienced working with big data and relational database management system such
 Including all of this, I always love to use my mechanical domain expertise to look at problems from outside of the box.
 
 
-<!---
 ## Contact_Me 
 
 * ***Linkedin*** - [*in/nilaydeshmukh*](https://www.linkedin.com/in/nilaydeshmukh/)
@@ -26,7 +25,6 @@ Including all of this, I always love to use my mechanical domain expertise to lo
 * ***Medium*** - [*nilaydeshmukh*](https://medium.com/@nilaydeshmukh)
 * ***Cell No.*** - [*+91 72762 62753*](#)
 * ***Email*** - [*nilaydeshmukh0@gmail.com*](#)
--->
 
 <p>&nbsp;</p>
 
